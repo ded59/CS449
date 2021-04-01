@@ -17,3 +17,5 @@ Recitation 6: More x86-64 (Conditionals, Reverse Engineering), Memory Stacks, Pa
 Recitation 7: Assembly Lab, Part 2.
 
 Recitation 8: Cache Memory Basics, Direct Mapping.
+
+Recitation 9: Fully Associative Mapping, Set Associative Mapping, Cache Tutorial, Cache Lab.
