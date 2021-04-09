@@ -19,3 +19,5 @@ Recitation 7: Assembly Lab, Part 2.
 Recitation 8: Cache Memory Basics, Direct Mapping.
 
 Recitation 9: Fully Associative Mapping, Set Associative Mapping, Cache Tutorial, Cache Lab.
+
+Recitation 10: Exercises on Cache, Virtual Memory.
