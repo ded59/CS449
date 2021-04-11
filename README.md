@@ -20,4 +20,4 @@ Recitation 8: Cache Memory Basics, Direct Mapping.
 
 Recitation 9: Fully Associative Mapping, Set Associative Mapping, Cache Tutorial, Cache Lab.
 
-Recitation 10: Exercises on Cache, Virtual Memory Basics, TLB.
+Recitation 10: Exercises on Cache, Virtual Memory Basics, TLB, Exercises on Address Translation.
