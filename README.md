@@ -23,3 +23,5 @@ Recitation 9: Fully Associative Mapping, Set Associative Mapping, Cache Tutorial
 Recitation 10: Exercises on Cache, Virtual Memory Basics, TLB, Exercises on Address Translation.
 
 Recitation 11: Malloc Lab, Part 1: Implicit Free List
+
+Recitation 12: Malloc Lab (Part 2), Processes: fork(), wait(), exec(), Exercises using Process graphs 
