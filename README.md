@@ -24,4 +24,4 @@ Recitation 10: Exercises on Cache, Virtual Memory Basics, TLB, Exercises on Addr
 
 Recitation 11: Malloc Lab, Part 1: Implicit Free List
 
-Recitation 12: Malloc Lab (Part 2), Processes: fork(), wait(), exec(), Exercises using Process graphs 
+Recitation 12: Malloc Lab (Part 2). Processes: fork(), wait(), exec(), Exercises using Process graphs 
